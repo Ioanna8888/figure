@@ -1,0 +1,18 @@
+
+---
+author: ManousosValirakis
+title: "Apple iPhone (2007): Αλληλεπίδραση μέσω πολλαπλής αφής"
+year: 2007
+image_url: /images/iphone-2007-multitouch.jpg
+caption: "Το πρώτο Apple iPhone συνέβαλε στη διάδοση της αλληλεπίδρασης με φορητές συσκευές μέσω οθόνης πολλαπλής αφής (multi-touch). Ο χρήστης μπορούσε να επιλέγει στοιχεία της γραφικής διεπαφής απευθείας με τα δάχτυλά του και να χρησιμοποιεί χειρονομίες, όπως η μετακίνηση περιεχομένου με ολίσθηση (swipe) και η μεγέθυνση εικόνων με δύο δάχτυλα (pinch-to-zoom). Η προσέγγιση αυτή περιόρισε την ανάγκη χρήσης γραφίδας και φυσικού πληκτρολογίου, καθιστώντας την αλληλεπίδραση πιο άμεση και ενισχύοντας την αξιοποίηση της οθόνης ως βασικού μέσου εισόδου και εξόδου."
+license_url: "https://commons.wikimedia.org/wiki/File:IPhone_First_Generation.jpg"
+license_text: "Carl Berkeley - CC BY-SA 2.0"
+categories:
+  - Κινητές Συσκευές
+  - Οθόνες Αφής
+tags:
+  - Apple iPhone
+  - Multi-touch
+  - Touch Gestures
+  - Human Computer Interaction
+---
